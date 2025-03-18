@@ -1,0 +1,19 @@
+GLFS
+Copyright © 2025 GCE DEV. All rights reserved.
+
+Ownership & Rights
+This software, including but not limited to source code, documentation, and assets, is the exclusive property of GCE DEV.
+
+Restrictions
+
+No one may copy, modify, distribute, or sublicense this software without explicit written permission from GCE DEV.
+Reverse engineering, decompiling, or disassembling any part of the software is strictly prohibited.
+Permitted Use
+
+You may only use this software if granted express permission by GCE DEV.
+Any permitted use is subject to the terms outlined in a separate agreement.
+Liability Disclaimer
+This software is provided "as is," without warranties of any kind. GCE DEV is not responsible for any damages resulting from its use.
+
+License Termination
+Any unauthorized use of this software will result in immediate termination of any rights granted under this license.
